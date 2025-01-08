@@ -6,6 +6,13 @@ import GalleryImg4 from "../../assets/images/gallery/g4.jpg"
 import GalleryImg6 from "../../assets/images/gallery/g6.jpg"
 import GalleryImg7 from "../../assets/images/gallery/g7.jpg"
 
+import GalleryImg8 from "../../assets/images/gallery/g4.jpg"
+import GalleryImg9 from "../../assets/images/gallery/g1.jpg"
+import GalleryImg10 from "../../assets/images/gallery/g6.jpg"
+import GalleryImg11 from "../../assets/images/gallery/california.jpg"
+import GalleryImg12 from "../../assets/images/gallery/england.jpg"
+import GalleryImg13 from "../../assets/images/gallery/england.jpg"
+
 
 const Gallery = () => {
 
@@ -35,6 +42,41 @@ const Gallery = () => {
         },
         {
             src: GalleryImg6,
+            desc: "Rann of kutch , India",
+            sub: "Hari Nandakumar"
+        },
+{
+            src: GalleryImg7,
+            desc: "Rann of kutch , India",
+            sub: "Hari Nandakumar"
+        },
+{
+            src: GalleryImg8,
+            desc: "Rann of kutch , India",
+            sub: "Hari Nandakumar"
+        },
+{
+            src: GalleryImg9,
+            desc: "Rann of kutch , India",
+            sub: "Hari Nandakumar"
+        },
+{
+            src: GalleryImg10,
+            desc: "Rann of kutch , India",
+            sub: "Hari Nandakumar"
+        },
+{
+            src: GalleryImg11,
+            desc: "Rann of kutch , India",
+            sub: "Hari Nandakumar"
+        },
+{
+            src: GalleryImg12,
+            desc: "Rann of kutch , India",
+            sub: "Hari Nandakumar"
+        },
+{
+            src: GalleryImg13,
             desc: "Rann of kutch , India",
             sub: "Hari Nandakumar"
         },
