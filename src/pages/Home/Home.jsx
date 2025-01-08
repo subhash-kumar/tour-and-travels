@@ -158,7 +158,7 @@ const Home = () => {
           <Row>
             <Col md="12">
               <div className="main_heading">
-                <h1>Photo Gallery </h1>
+                <h1>Popular Destination for Visit</h1>
               </div>
             </Col>
           </Row>
